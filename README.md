@@ -1,4 +1,4 @@
-# PT-BR | Simple progress steps
+# PT-BR | Hidden search
 
 Básica visão geral sobre esse projeto de estudo
 
@@ -8,7 +8,7 @@ Estou em um sistema de estudo de front end, criando alguns simples e pequenos pr
 
 Este projeto, 4/50, é cedido por: [bradtraversy](https://github.com/bradtraversy/50projects50days)
 
-# EN | Simple progress steps
+# EN | Hidden search
 
 Basic overview of this study project
 
